@@ -19,4 +19,4 @@ My current interests are mainly focus on Bayesian statistics and machine learnin
 
 - Improving the interpretability of machine learning models through methods such as uncertainty quantification.
 
-Both of above ideas originated from my master's thesis. You can see how I came up with these ideas in the "Research experience" section above!
+Both of above ideas originated from my master's thesis. 
