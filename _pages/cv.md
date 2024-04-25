@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a href="https://github.com/XingjianZhang1/XingjianZhang1.github.io/blob/master/files/Zhang-CV.pdf">PDF version</a>.</u>
+<a href="files/Zhang-CV.pdf">PDF version</a>
 
 Education
 ======
