@@ -19,9 +19,4 @@ My current interests are mainly focus on Bayesian statistics and machine learnin
 
 - Improving the interpretability of machine learning models through methods such as uncertainty quantification.
 
-Both of above ideas originated from my master's thesis. You can see how I came up with these ideas in the "Projects" section above!
-
-Education
-------
-* MSc in Statistics with Distinction, University of Exeter, 2022-2023
-* Bachelor of Natural Science in Information and Computing Science, China University Of Mining & Technology (Beijing), 2017-2021
+Both of above ideas originated from my master's thesis. You can see how I came up with these ideas in the "Research experience" section above!
