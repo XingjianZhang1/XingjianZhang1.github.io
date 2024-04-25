@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<u><a href="https://github.com/XingjianZhang1/XingjianZhang1.github.io/blob/master/files/Zhang-CV.pdf">PDF version</a>.</u>
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
