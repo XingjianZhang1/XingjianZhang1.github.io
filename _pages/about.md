@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-\usepackage{color}
 ---
 
 Hi there! My name is Xingjian. I recieived my Msc in Statistics at [University of Exeter](https://www.exeter.ac.uk/) in 2023.
