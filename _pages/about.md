@@ -5,12 +5,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+\usepackage{color}
 ---
 
-Hi there! My name is Xingjian. I recieived my Msc in Statistics at [University of Exeter](https://www.exeter.ac.uk/) in 2023. \\
+Hi there! My name is Xingjian. I recieived my Msc in Statistics at [University of Exeter](https://www.exeter.ac.uk/) in 2023.
 
-\usepackage{color}
-{\color{red}{I'm looking for PhD opportunities in statistics or related fields. If you think I'm the suitable candidate to work with you please do get in touch!}
+\textcolor{red}{I'm looking for PhD opportunities in statistics or related fields. If you think I'm the suitable candidate to work with you please do get in touch!}
 
 Research interests
 ------
