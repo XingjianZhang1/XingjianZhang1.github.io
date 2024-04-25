@@ -37,5 +37,4 @@ Internships
 ======
 * <b>China Telecommunications Company</b>, Jul.2021-Aug.2021 <br>
   <i>Data-analysis internship</i> <br>
-  Responsible for customer data collation and entry, screening and categorization, and comparative analysis of data. And also responsible  
-  for analyzing the data statistics of industry customer research projects, and assisted in writing analysis reports
+  Responsible for customer data collation and entry, screening and categorization, and comparative analysis of data. And also responsible for analyzing the data statistics of industry customer research projects, and assisted in writing analysis reports
