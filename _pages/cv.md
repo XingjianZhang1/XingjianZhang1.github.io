@@ -25,8 +25,8 @@ Skills
 
 Publications
 ======
-* A study of news event-driven turtle trading strategy optimization: a textual sentiment approach.
-  Liangdian Huang, Zigeng Gao, <b>Xingjian Zhang</b>, Kaili Cai, Xiaoke Luo, Yan Li.
+* A study of news event-driven turtle trading strategy optimization: a textual sentiment approach.<br>
+  Liangdian Huang, Zigeng Gao, <b>Xingjian Zhang</b>, Kaili Cai, Xiaoke Luo, Yan Li.<br>
   China Circulation Economy, 2021, (19):153-156. DOI:10.16834
 
 Competition
@@ -35,7 +35,7 @@ Competition
 
 Internships
 ======
-* China Telecommunications Company, Jul.2021-Aug.2021
-  <i>Data-analysis internship</i>
+* <b>China Telecommunications Company</b>, Jul.2021-Aug.2021 <br>
+  <i>Data-analysis internship</i> <br>
   Responsible for customer data collation and entry, screening and categorization, and comparative analysis of data. And also responsible  
   for analyzing the data statistics of industry customer research projects, and assisted in writing analysis reports
