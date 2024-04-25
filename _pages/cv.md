@@ -9,58 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Here is the <a href="/files/Zhang-CV.pdf">PDF version</a> of my CV if you needed.
+Here is the more detailed <a href="/files/Zhang-CV.pdf">PDF version</a> of my CV if you needed.
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* MSc in Statistics with Distinction, University of Exeter, 2022-2023
+* Bachelor of Natural Science in Information and Computing Science, China University Of Mining & Technology (Beijing), 2017-2021
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in R and Python
+* Language:
+  - English: Proficient, IELTS 7.0/9.0
+  - Chinese: Native
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* A study of news event-driven turtle trading strategy optimization: a textual sentiment approach.
+  Liangdian Huang, Zigeng Gao, <b>Xingjian Zhang</b>, Kaili Cai, Xiaoke Luo, Yan Li.
+  China Circulation Economy, 2021, (19):153-156. DOI:10.16834
+
+Competition
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Won the 1st prize in China Undergraduate Mathematical Contest in Modelling in 2019 (top 0.75%, a total of 42922 teams participated)
+
+Internships
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* China Telecommunications Company, Jul.2021-Aug.2021
+  <i>Data-analysis internship</i>
+  Responsible for customer data collation and entry, screening and categorization, and comparative analysis of data. And also responsible  
+  for analyzing the data statistics of industry customer research projects, and assisted in writing analysis reports
