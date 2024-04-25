@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="files/Zhang-CV.pdf">PDF version</a>
+Here is the <a href="/Users/zxj/Desktop/出国文书/phd申请/KCL">PDF version</a> of my CV if you needed.
 
 Education
 ======
