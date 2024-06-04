@@ -20,5 +20,3 @@ Under the assumption that the driver's goal is to maximize benefits/minimize los
 ### Result:
 
 <span style="color:red"> First prize (top 0.75%, a total of 42,992 teams participated)
-
-<a href="/files/dissertation-v2.0.pdf">Get the full paper here (Only Chinese version!!).</a>
