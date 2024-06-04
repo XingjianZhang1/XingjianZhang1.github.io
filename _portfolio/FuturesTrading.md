@@ -22,4 +22,4 @@ When backtested, the improved strategy using text sentiment increased returns by
 
 <span style="color:red"> Published the study as a paper in China Circulation Economy.
 
-<a href="[/files/dissertation-v2.0.pdf](https://kns.cnki.net/kcms2/article/abstract?v=lQz6UQjnwp_X9oBgyyq88zZah33z7PcwVOSkVs-4z_CEON0m5XclOhGkW1Wbl0lrsDHvzUDKGBGyHF_dpEzHrt8ZzFvhlw6wnBJx2PCxDpIkVDDhCxrRMmFIK3K60AMCF4YL8K4blaqoOh-VzVy1jg==&uniplatform=NZKPT&language=CHS)">Get the full paper here (Only Chinese version!!).</a>
+<a href="https://kns.cnki.net/kcms2/article/abstract?v=lQz6UQjnwp_X9oBgyyq88zZah33z7PcwVOSkVs-4z_CEON0m5XclOhGkW1Wbl0lrsDHvzUDKGBGyHF_dpEzHrt8ZzFvhlw6wnBJx2PCxDpIkVDDhCxrRMmFIK3K60AMCF4YL8K4blaqoOh-VzVy1jg==&uniplatform=NZKPT&language=CHS">Get the full paper here (Only Chinese version!!).</a>
