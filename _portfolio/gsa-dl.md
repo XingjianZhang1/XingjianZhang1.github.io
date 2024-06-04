@@ -14,4 +14,4 @@ Deep learning models such as Deep Neural Networks (DNN) perform well, but their 
 
 -Note that the current problems are all due to the model being too complex to get explicit priors/likelihoods. The ABC method essentially circumvents this problem by using a simulator instead of a complex model. Therefore, we developed an ABC-based to set informative priors for complex models and obtain corresponding posterior estimates when the likelihood is intractable. And checked effectiveness of the algorithm on a simple polynomial model
 
-<a href="/files/Zhang-CV.pdf">Get the full paper here.</a>
+<a href="/files/dissertation-v2.0.pdf">Get the full paper here.</a>
