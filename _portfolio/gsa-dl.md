@@ -1,6 +1,6 @@
 ---
 title: "Using global sensitivity analysis to understand deep learning"
-excerpt: "My master's thesis studied the application of Global Sensitivity Analysis (GSA) and Approximate Bayesian Computation (ABC) on Neural Network models. <br/><img src='/images/500x300.png'>"
+excerpt: "My master's thesis studied the application of Global Sensitivity Analysis (GSA) and Approximate Bayesian Computation (ABC) on Neural Network models."
 collection: portfolio
 ---
 
