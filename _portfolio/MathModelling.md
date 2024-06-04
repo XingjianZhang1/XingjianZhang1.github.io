@@ -1,6 +1,6 @@
 ---
 title: "2019 China Undergraduate Mathematical Contest in Modelling"
-excerpt: "Modelling taxi drivers’ strategy of picking up passengers in the airport. <br/><img src='/images/500x300.png'>"
+excerpt: "Modelling taxi drivers’ strategy of picking up passengers in the airport."
 collection: portfolio
 ---
 
