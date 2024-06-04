@@ -12,6 +12,8 @@ Deep learning models such as Deep Neural Networks (DNN) perform well, but their 
 
 -To solve the above problem 1, we choose to set information priors for parameter functions (such as the value of the Sobol' index of a certain input feature, which represents the importance of the factor). Also, because the model is too complex, it is impossible to directly derive the prior distribution of each model parameter from the prior distribution of the Sobol' index.
 
--Note that the current problems are all due to the model being too complex to get explicit priors/likelihoods. The ABC method essentially circumvents this problem by using a simulator instead of a complex model. Therefore, we developed an ABC-based to set informative priors for complex models and obtain corresponding posterior estimates when the likelihood is intractable. And checked effectiveness of the algorithm on a simple polynomial model
+-Note that the current problems are all due to the model being too complex to get explicit priors/likelihoods. The ABC method essentially circumvents this problem by using a simulator instead of a complex model. 
+
+-<span style="color:red"> Therefore, I developed an ABC-based to set informative priors for complex models and obtain corresponding posterior estimates when the likelihood is intractable. And checked the effectiveness of the algorithm on a simple polynomial model
 
 <a href="/files/dissertation-v2.0.pdf">Get the full paper here.</a>
