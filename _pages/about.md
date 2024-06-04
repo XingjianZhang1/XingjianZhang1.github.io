@@ -13,7 +13,7 @@ Hi there! My name is Xingjian. I recieived my MSc in Statistics at [University o
 
 Research interests
 ------
-My current interests are mainly focus on Bayesian statistics and machine learning. Specifically now I have two potential ideas: 
+My current interests are mainly focus on Bayesian statistics and machine learning/ deep learning. Specifically now I have two potential ideas: 
 
 - Developing methods to import prior information into the models which are difficult to set informative priors for its parameters. For example, using the prior information of model-derived quantities to indirectly set informative priors for parameters.
 
