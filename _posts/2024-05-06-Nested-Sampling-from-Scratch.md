@@ -26,8 +26,7 @@ $$
 
 where \\(L(\Theta) \\) is the likelihood, \\(\pi(\Theta) \\) is the prior distribution and \\(Z\\) is marginal likelihood, or evidence.
 
-
-So it can be noted that evidence \\(Z = P(D | M) \\) is an important part of Bayesian inference. On the one hand, only by calculating it can we get the analytical expression of the posterior distribution, and on the other hand, it also shows how reasonable the model we choose is for the data. For two models \\(M_0\\) and \\(M_1\\), the Bayes factor:
+So it can be noted that evidence \\(Z \\) is an important part of Bayesian inference. On the one hand, only by calculating it can we get the analytical expression of the posterior distribution, and on the other hand, it also shows how reasonable the model we choose is for the data. For two models \\(M_0\\) and \\(M_1\\), the Bayes factor:
 
 $$
 B_{10} = \frac{Z_1}{Z_0}
