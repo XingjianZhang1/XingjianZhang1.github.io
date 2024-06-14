@@ -45,4 +45,17 @@ $$
 Z = \int L(\Theta) \pi(\Theta) d \Theta = \sum L(\Theta_i) \pi(\Theta_i) \Delta \Theta_i
 $$
 
-where \\( \Delta \Theta_i \\) denotes the \\(i\\)-th hypercube in parameter space. However, 
+where \\( \Delta \Theta_i \\) denotes the \\(i\\)-th hypercube in parameter space. However, due to the curse of demensionalty, the number of hypercubes required will increase exponentially. Similar increases in computational cost also occur in simple methods such as reject sampling. Therefore we need methods to overcome it.
+
+(Starting here is my personal understanding, which may not be correct. Please do not refer to it.)
+
+NS circumvents the problem of high-dimensional parameter space. Note that the likelihood function \\( L(\Theta) \\) and the prior \\( \pi(\Theta_i) \\) are one-dimensional regardless of the parameter dimensions (i.e., the probability of data appearing under a certain parameter and the probability of a certain parameter appearing in our prior knowledge). Therefore, directly integrating them avoids the curse of dimensionality.
+
+Using ideas similar to the Lebesgue integral, we no longer need to decompose the hyperspace into small hypercubes, but can decompose it into any shape needed, as follow:
+
+$$
+Z = \int L(\Theta) \pi(\Theta) d \Theta \\
+= \sum L(\Delta V_i) \Delta V_i
+$$
+
+where \\( V_i \\) denotes the sub-hyperspace that share the same likelihood value \\( L(\Delta V_i) \\), and \\( \Delta V_i \\) denotes the volume of this sub-hyperspace.
