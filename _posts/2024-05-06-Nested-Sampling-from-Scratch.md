@@ -36,7 +36,7 @@ tells us how we must update the relative plausibility of two models in light of 
 
 Therefore, we need methods to compute the integral on parameter space to get the evidence.
 
-Nested Sampling
+The General Principle of Nested Sampling
 ------
 
 For evidence \\(Z \\), use the Riemann integral to calculate：
@@ -58,4 +58,10 @@ Z = \int L(\Theta) \pi(\Theta) d \Theta \\
 = \sum L(\Delta V_i) \Delta V_i
 $$
 
-where \\( V_i \\) denotes the sub-hyperspace that share the same likelihood value \\( L(\Delta V_i) \\), and \\( \Delta V_i \\) denotes the volume of this sub-hyperspace.
+where \\( V_i \\) denotes the i-th sub-hyperspace small enough that share the same likelihood value \\( L(\Delta V_i) \\), and \\( \Delta V_i \\) denotes the volume of this sub-hyperspace.
+
+Therefore we only need to get a one-dimensional integral, even if the parameters \\( \Theta \\) may be high-dimensional. (I might put a visual example here in the future)
+
+Algorithm of Nested Sampling in more detail
+------
+
