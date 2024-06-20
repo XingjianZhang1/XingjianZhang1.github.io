@@ -1,7 +1,7 @@
 ---
 title: 'Nested Sampling from Scratch'
 date: 2024-05-06
-permalink: /posts/2024/05/nested-sampling/
+permalink: /posts/2024/05/nested-sampling-from-scratch/
 tags:
   - Statistics
   - Nested Sampling
