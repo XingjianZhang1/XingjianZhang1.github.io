@@ -58,10 +58,30 @@ Z = \int L(\Theta) \pi(\Theta) d \Theta \\
 = \sum L(\Delta V_i) \Delta V_i
 $$
 
-where \\( V_i \\) denotes the i-th sub-hyperspace small enough that share the same likelihood value \\( L(\Delta V_i) \\), and \\( \Delta V_i \\) denotes the volume of this sub-hyperspace.
+where \\( V_i \\) denotes the i-th sub-hyperspace small enough that share the same likelihood value \\( L(\Delta V_i) \\), and \\( \Delta V_i \\) denotes the volume of this sub-hyperspace. In other words, we can obtain the evidence \\( Z \\) by computing the weighted volume sum of sub-hyperspaces, where the weights are corresponding likelihood values of these sub-hyperspaces. Note that I use the term "hyperspaces" instead of "hypercubes" because hyperspaces with the same weight are unlikely to be hypercubes and are often not even contiguous.
 
-Therefore we only need to get a one-dimensional integral, even if the parameters \\( \Theta \\) may be high-dimensional. (I might put a visual example here in the future)
+(I might put a contour map here later to illustrate this.)
+
+Therefore we only need to get a one-dimensional integral, even if the parameters \\( \Theta \\) may be high-dimensional.
+
+So, returning to our previous discussion on the calculation of the evidence \\( Z \\), we mentioned that \\( Z \\) can be viewed as the weighted sum of the volumes of certain sub-hyperspaces. While the concept of weights is straightforward, the idea of the volume of sub-hyperspaces is somewhat ambiguous. To address this, we can refer to John Skilling's original work and perform the following variable substitution:
+
+$$
+\displaylines{
+dX=\pi (\Theta) d \Theta \\\
+X(\lambda) = \int_{ \mathcal{L} (\Theta) > \lambda} \pi (\Theta) d \Theta\\\
+}
+$$
+
+where the \\( X \\) denotes the prior mass. So now we know that the volume of sub-hyperspaces is prior mass. And evidence is calculated by the weighted sum of prior mass, where the weights are likelihoods. And now:
+
+$$
+Z = \int_{0}^{1} \mathcal{L} (X) dX
+$$
+
+since \\( X \\) is a probability function and can only be in the range from 0 to 1.
 
 Algorithm of Nested Sampling in more detail
 ------
+
 
